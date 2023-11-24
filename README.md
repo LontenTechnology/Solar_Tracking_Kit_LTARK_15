@@ -6,7 +6,7 @@ If you are interested in source code and have the ability to develop it, you can
 
 https://github.com/LontenTechnology/Solar_Tracking_Kit_LTARK_15
 
-<img src='Picture/Smart-Home-Kit-for-Arduino.jpg' width='100%'/>
+<img src='Solar Tracking Kit.png' width='100%'/>
 
 ### Download
 
